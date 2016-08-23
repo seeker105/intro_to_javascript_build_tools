@@ -1,0 +1,57 @@
+{
+  "name": "webpack-walkthrough",
+  "version": "1.0.0",
+  "description": "We're making a walkthrough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Romeeka Gayhart",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "chai": "^3.2.0",
+    "css-loader": "^0.23.1",
+    "mocha": "^2.2.5",
+    "mocha-loader": "^0.7.1",
+    "node-libs-browser": "^1.0.0",
+    "node-sass": "^3.2.0",
+    "sass-loader": "^4.0.0",
+    "style-loader": "^0.13.1",{
+  "name": "webpack-walkthrough",
+  "version": "1.0.0",
+  "description": "We're making a walkthrough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Romeeka Gayhart",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "chai": "^3.2.0",
+    "css-loader": "^0.23.1",
+    "mocha": "^2.2.5",
+    "mocha-loader": "^0.7.1",
+    "node-libs-browser": "^1.0.0",
+    "node-sass": "^3.2.0",
+    "sass-loader": "^4.0.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.10.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
+    "webpack": "^1.10.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
